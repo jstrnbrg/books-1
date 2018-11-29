@@ -208,9 +208,9 @@ A subset of some of the Udacity tutorials I have leveraged as part of my journey
 <br><br><br><br>
 
 ### Other Resources
-[The Odin Project] (https://www.theodinproject.com/home) <br>
-[Free Code Camp] (https://www.freecodecamp.org/) <br>
-[Watch and Code] (https://watchandcode.com/)
+The Odin Project: https://www.theodinproject.com/home <br>
+Free Code Camp: https://www.freecodecamp.org/ <br>
+Watch and Code: https://watchandcode.com/
 
 ## License
 
